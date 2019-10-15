@@ -20,7 +20,7 @@ void draw()
     sum+=first.mynum;
     }
   }
-  System.out.println(sum);
+ 
 textSize(70);
  text(sum, 600, 150);
  textSize(50);
